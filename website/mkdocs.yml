@@ -1,0 +1,15 @@
+site_name: PerIoT 2021
+site_author: Farzana Rahman
+
+nav:
+  - PerIoT 2021 : 'index.md'
+
+theme:
+  name: 'material'
+  palette:
+    primary: teal
+    accent: green
+
+markdown_extensions:
+  - admonition
+  - toc
