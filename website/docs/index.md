@@ -113,11 +113,11 @@ Submission link: [TBD](#)
 
 
   - **Track 2: IOTProD track**
-    - [**Nicola Bicocchi**](#)<br>
+    - [**Nicola Bicocchi**](http://personale.unimore.it/rubrica/dettaglio/nbicocchi)<br>
       Università di Modena e Reggio, Emilia, Italy<br>
       Email: nicola.bicocchi@unimore.it
 
-    - [**Marco Picone**](#)<br>
+    - [**Marco Picone**](https://www.marcopicone.net/)<br>
       Università di Modena e Reggio, Emilia, Italy<br>
       Email: marco.picone@unimore.it
 
