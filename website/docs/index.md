@@ -64,7 +64,7 @@ TBD
 
 ## Important Dates
 
-Papers submission deadline: **November 16, 2020**<br>
+Papers submission deadline: **November 9, 2020**<br>
 Author notification due: **January 5, 2020**<br>
 Camera ready deadline: **February 5, 2021 (FIRM)**<br>
 Author registration deadline: **See  PERCOM  2021  website**<br>
@@ -83,7 +83,7 @@ Regular papers should present novel perspectives within the scope of one of the 
 PerIoT will be held in conjunction with IEEE PERCOM 2021. All accepted papers will be included in the PERCOM proceedings and published by the IEEE. Workshop papers will be included and indexed in the IEEE digital libraries (Xplore).
 
 
-Submission link: [TBD](#)
+Submission link: [https://edas.info/N27743](https://edas.info/N27743)
 
 
 ## Registration
@@ -122,7 +122,7 @@ Submission link: [TBD](#)
       Email: marco.picone@unimore.it
 
     - [**Alexander Artemenko**](#)<br>
-    Robert Bosch GmbH, Stuttgart, Germany<br>
+      Robert Bosch GmbH, Stuttgart, Germany<br>
       Email: Alexander.Artemenko@de.bosch.com
 
 
