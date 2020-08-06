@@ -138,7 +138,13 @@ Submission link: [https://edas.info/N27743](https://edas.info/N27743)
 
 #### <a href="dummy"></a> **Publicity Chair**
 
-  - TBD
+  - [**Samy El-Tawab**](http://educ.jmu.edu/~eltawass/)<br/>
+    James Madison University, VA, USA<br/>
+    Email: eltawass@jmu.edu
+
+  - [**Peter Zdankin**](https://www.vs.uni-due.de/mitarbeiter_zdankin.shtml)<br/>
+    University of Duisburg-Essen, Germany<br/>
+    Email: peter.zdankin@uni-due.de
 
 
 
