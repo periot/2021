@@ -6,8 +6,6 @@
 ## <a href=dummy></a> March 22-26, 2021 in Kassel, Germany (co-located with  [IEEE PerCom 2021](http://www.percom.org/))
 
 
-<font color="red">**Warning:** This website is currently under construction</font>
-
 
 The Internet-of-Things (IoT) rapidly revolutionized the scenario of modern technologies and communication systems. The IoT enables large numbers of previously unconnected devices to communicate and exchange data and deal with services that span areas from healthcare to transportation and much more, with the potential for significant benefits to people and quality of life. In recent years, the Internet has become increasingly pervasive allowing people to connect anytime and everywhere to achieve pervasiveness and mobility. The coupling among mobile technology, embedded objects, and a worldwide pervasive communication infrastructure constitutes the Mobile and Pervasive Internet-of-Things. However, the domain of mobile and pervasive IoT has expanded in recent years which lead to few new challenges like 1) IoT has quickly evolved to a new appified era where third-party developers can write apps for IoT platforms using programming frameworks, 2) with the advent of emerging IoT technologies like industrial IoT, agriculture IoT and narrowband IoT, new research problems are surfacing related to connectivity and data storage, and 3) the confluence of IoT with augmented and virtual reality (AR/VR), there are newer challenges to enable digital representation of physical objects.
 
@@ -70,9 +68,6 @@ Camera ready deadline: **February 5, 2021 (FIRM)**<br>
 Author registration deadline: **See  PERCOM  2021  website**<br>
 Workshop date: **March 26, 2021 (Friday) (Tentative)**
 
-## Call for Papers (CFP)
-
-[Link](#)
 
 ## Submission Guidelines
 
@@ -128,12 +123,29 @@ Submission link: [https://edas.info/N27743](https://edas.info/N27743)
 
 #### <a href="dummy"></a> **Technical Program Committee**
 
-  - TBD
+  - **Track 1: MPIoT track**
+    - Aliza Heching - IBM Research, NY
+    - Qiyin Fang - McMaster, CA
+    - Sarah Masud Preum - CMU
+    - Abhishek Mukherji - Accenture
+    - Carlo Vallati - University of Pisa, Italy
+    - Wenyao Xu - University of Buffalo
+    - Tauhidur Rahman - UMass Amherst
+    - Ahmad Salman - James Madison University, USA
+    - Reza Fathi - University of Houston, USA
+    - Asif Salekin - Syracuse University, USA
+    - Ann Ngu - Texas State University, USA
+    - Baris Aksanli - San Diego State University, USA
 
 
-#### <a href="dummy"></a> **Steering Committee**
 
-  - TBD
+
+  - **Track 2: IOTProD track**
+    - Luca Veltri - University of Parma, Italy
+    - Marco Mamei - University of Modena and Reggio Emilia, Italy
+    - Pietro Manzoni - Universitat Politècnica de València, Spain
+    - Carlo Giannelli - University of Ferrara, Italy
+
 
 
 #### <a href="dummy"></a> **Publicity Chair**
