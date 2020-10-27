@@ -3,7 +3,9 @@
 
 # International Workshop on Mobile and Pervasive Internet of Things (PerIoT)
 
-## <a href=dummy></a> March 22-26, 2021 in Kassel, Germany (co-located with  [IEEE PerCom 2021](http://www.percom.org/))
+## <a href=dummy></a> March 26, 2021 in Kassel, Germany (co-located with  [IEEE PerCom 2021](http://www.percom.org/))
+
+<div style="margin:auto;text-align:center;width:100%;height:50px;border:0px solid #FFF; background-color: #FFCC42;padding:5px;font-size:1.5em;"><strong>Virtual</strong></div>
 
 _**In the light of the international situation of the CoVID-19 pandemic,
 the PerCom General Chairs and Steering Committee have decided that [PerCom 2021 will be virtual](http://www.percom.org/) (synchronous zoom meeting).**_
