@@ -67,7 +67,7 @@ TBD
 
 ## Important Dates
 
-Papers submission deadline: **November 9, 2020**<br>
+Papers submission deadline: **<strike>November 9, 2020</strike> December 4, 2020** (<font color="red">**HARD deadline**</font>)<br>
 Author notification due: **January 5, 2020**<br>
 Camera ready deadline: **February 5, 2021 (FIRM)**<br>
 Author registration deadline: **See  PERCOM  2021  website**<br>
