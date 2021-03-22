@@ -60,7 +60,7 @@ Software Engineering and Architecture for IoT (reusability of AI models,  - pay 
 
 
 ## Technical Program
-[PDF](./Final-PerIoT-Program.pdf)
+[PDF](./Final-PerIoT-Program-updated.pdf)
 
 
 
